@@ -1,0 +1,18 @@
+body{
+  background-image: url(green.jpeg)
+}
+
+h1{
+  font-family: arial;
+  margin-bottom: 8px;
+}
+
+p{
+  font-family: arial;
+  margin: 0
+}
+
+img{
+  margin-top: 12px;
+  margin-bottom: 4px;
+}
